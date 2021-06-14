@@ -15,9 +15,7 @@
 #### Model based Reinforcement Learning
 |Num|Name|Ref|Date|
 |---|---|---|---|
-|1|A Consciousness-Inspired Planning Agent for
-Model-Based Reinforcement Learning
-|https://arxiv.org/pdf/2106.02097.pdf| 3 Jun 2021 |
+|1|A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning |https://arxiv.org/pdf/2106.02097.pdf| 3 Jun 2021 |
 
 #### Offline Reinforcement Learning
 |Num|Name|Ref|Date|
