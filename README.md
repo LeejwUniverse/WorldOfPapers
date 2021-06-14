@@ -1,5 +1,5 @@
 # WorldOfPapers
-
+:partying_face:	:partying_face:
 - - -
 
 ### Today's art
