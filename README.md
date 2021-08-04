@@ -44,3 +44,9 @@
 |Num|Name|Ref|Date|
 |---|---|---|---|
 |1|Evaluating Agents without Rewards|https://arxiv.org/pdf/2012.11538.pdf| 9 Feb 2021 |
+
+#### User simulator
+|Num|Name|Ref|Date|
+|---|---|---|---|
+|1|Transferable Dialogue Systems and User Simulators|https://arxiv.org/pdf/2107.11904.pdf| 25 Jul 2021 |
+|2|Domain-independent User Simulation with Transformers for Task-oriented Dialogue Systems|https://arxiv.org/pdf/2106.08838.pdf| 16 Jun 2021 |
