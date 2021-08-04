@@ -29,3 +29,18 @@
 |---|---|---|---|
 |1|GAIL|https://arxiv.org/abs/1606.03476| 10 Jun 2016 |
 |2|SQIL|https://arxiv.org/abs/1905.11108| 27 May 2019 |
+
+#### Human-Level
+|Num|Name|Ref|Date|
+|---|---|---|---|
+|1|EMPA|https://arxiv.org/pdf/2107.12544v1.pdf| 27 Jul 2021 |
+
+#### Time
+|Num|Name|Ref|Date|
+|---|---|---|---|
+|1|Clockwork VAE|https://arxiv.org/pdf/2102.09532.pdf| 20 Feb 2021 |
+
+#### Without Rewards
+|Num|Name|Ref|Date|
+|---|---|---|---|
+|1|Evaluating Agents without Rewards|https://arxiv.org/pdf/2012.11538.pdf| 9 Feb 2021 |
